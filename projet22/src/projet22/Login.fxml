@@ -17,7 +17,7 @@
          </image>
       </ImageView>
       <TextField fx:id="username" layoutX="258.0" layoutY="136.0" />
-      <Text fill="#fc38d1" layoutX="120.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nom d'utilisateur">
+      <Text fill="#fc38d1" layoutX="137.0" layoutY="158.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Login">
          <font>
             <Font name="System Bold" size="15.0" />
          </font></Text>
