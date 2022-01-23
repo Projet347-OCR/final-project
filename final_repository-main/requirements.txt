@@ -1,0 +1,5 @@
+opencv-python==4.5.5.62
+easyocr==1.4.1
+opencv-contrib-python==4.5.5.62
+jaro-winkler==2.0.1
+easygui==0.98.2
